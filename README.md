@@ -1,2 +1,1 @@
-# facebook-simplest
-The simplest form of facebook I can think of
+This is the simplest form of facebook I could think of. I needed this because of the slow internet connection I have. It helps me get a quick peek into my facebook account in a desktop browser without having to wait for facebook to load all its data and the wall and all the posts etc etc etc yada yada yada
